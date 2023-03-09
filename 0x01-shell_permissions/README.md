@@ -1,0 +1,1 @@
+1. you can use the "su" (switch user) command to switch to the user "betty"
